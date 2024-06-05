@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3710
+  stars: 3712
   watch: 113
   forks: 559
-  updated: 2024-06-03T16:19:26Z
+  updated: 2024-06-04T06:48:07Z
   issues: 116
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -337,11 +337,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 945
+  stars: 946
   watch: 44
   forks: 486
-  updated: 2024-06-03T13:13:36Z
-  issues: 354
+  updated: 2024-06-04T21:08:41Z
+  issues: 355
   license: Apache-2.0
   owner: Apicurio
   logo: https://avatars.githubusercontent.com/u/28107283?v=4
@@ -374,9 +374,9 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4513
+  stars: 4514
   watch: 853
-  updated: 2024-06-03T18:39:35Z
+  updated: 2024-06-05T00:10:50Z
   issues: 122
   forks: 726
   license: MIT
