@@ -212,7 +212,7 @@
   stars: 317
   watch: 9
   forks: 40
-  updated: 2024-06-02T20:41:19Z
+  updated: 2024-06-05T21:20:44Z
   issues: 55
   owner: 42Crunch
   logo: https://avatars.githubusercontent.com/u/25365245?v=4
@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3712
+  stars: 3714
   watch: 113
   forks: 559
-  updated: 2024-06-04T06:48:07Z
+  updated: 2024-06-05T05:46:16Z
   issues: 116
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -339,7 +339,7 @@
   archived: false
   stars: 946
   watch: 44
-  forks: 486
+  forks: 487
   updated: 2024-06-04T21:08:41Z
   issues: 355
   license: Apache-2.0
@@ -374,9 +374,9 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4514
+  stars: 4516
   watch: 853
-  updated: 2024-06-05T00:10:50Z
+  updated: 2024-06-05T20:10:06Z
   issues: 122
   forks: 726
   license: MIT
@@ -677,10 +677,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 692
+  stars: 695
   watch: 15
   forks: 129
-  updated: 2024-05-29T03:48:03Z
+  updated: 2024-06-05T19:30:17Z
   issues: 43
   license: BSD-3-Clause
   owner: Mermade
@@ -4369,6 +4369,11 @@
   logo: https://avatars.githubusercontent.com/u/6568?v=4
   downloads: 0
   uuid: e9c6c31c-8a57-4b41-8f08-e00101a8f42f
+- github: https://github.com/oapi-codegen/oapi-codegen
+  v3: true
+  category: unclassified
+  uuid: df8789e6-9959-41ce-8316-d90d7c42055e
+  downloads: 0
 - name: odata-openapi
   category: converters
   language: XSLT
