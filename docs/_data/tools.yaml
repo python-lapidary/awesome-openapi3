@@ -209,10 +209,10 @@
   v3: true
   github: https://github.com/42Crunch/vscode-openapi
   archived: false
-  stars: 317
+  stars: 318
   watch: 9
-  forks: 40
-  updated: 2024-06-05T21:20:44Z
+  forks: 41
+  updated: 2024-06-06T23:18:43Z
   issues: 55
   owner: 42Crunch
   logo: https://avatars.githubusercontent.com/u/25365245?v=4
@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3714
+  stars: 3715
   watch: 113
   forks: 559
-  updated: 2024-06-05T05:46:16Z
+  updated: 2024-06-06T04:05:24Z
   issues: 116
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -337,11 +337,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 946
+  stars: 948
   watch: 44
   forks: 487
-  updated: 2024-06-04T21:08:41Z
-  issues: 355
+  updated: 2024-06-06T13:26:33Z
+  issues: 351
   license: Apache-2.0
   owner: Apicurio
   logo: https://avatars.githubusercontent.com/u/28107283?v=4
@@ -377,7 +377,7 @@
   stars: 4516
   watch: 853
   updated: 2024-06-05T20:10:06Z
-  issues: 122
+  issues: 124
   forks: 726
   license: MIT
   owner: Azure
@@ -621,9 +621,9 @@
   language: JavaScript
   category: "?"
   archived: false
-  stars: 1095
+  stars: 1094
   watch: 22
-  updated: 2024-06-03T13:36:30Z
+  updated: 2024-06-06T20:45:03Z
   issues: 104
   forks: 176
   license: MIT
@@ -713,10 +713,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 26
+  stars: 27
   watch: 4
   forks: 8
-  updated: 2024-05-21T10:15:38Z
+  updated: 2024-06-06T23:46:19Z
   issues: 6
   license: BSD-3-Clause
   owner: Mermade
@@ -733,10 +733,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 149
+  stars: 150
   watch: 5
   forks: 30
-  updated: 2024-05-31T10:22:19Z
+  updated: 2024-06-06T14:14:05Z
   issues: 8
   license: BSD-3-Clause
   owner: Mermade
