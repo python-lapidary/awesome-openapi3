@@ -212,7 +212,7 @@
   stars: 318
   watch: 9
   forks: 41
-  updated: 2024-06-06T23:18:43Z
+  updated: 2024-06-07T16:23:04Z
   issues: 55
   owner: 42Crunch
   logo: https://avatars.githubusercontent.com/u/25365245?v=4
@@ -298,10 +298,10 @@
   description: Amazon Web Services API description to OpenAPI 3.0 definition
   language: JavaScript
   archived: false
-  stars: 54
+  stars: 55
   watch: 5
   forks: 10
-  updated: 2024-05-25T06:35:18Z
+  updated: 2024-06-07T14:52:43Z
   issues: 14
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3715
+  stars: 3717
   watch: 113
   forks: 559
-  updated: 2024-06-06T04:05:24Z
+  updated: 2024-06-07T15:00:13Z
   issues: 116
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -341,7 +341,7 @@
   watch: 44
   forks: 487
   updated: 2024-06-06T13:26:33Z
-  issues: 351
+  issues: 354
   license: Apache-2.0
   owner: Apicurio
   logo: https://avatars.githubusercontent.com/u/28107283?v=4
@@ -375,9 +375,9 @@
   category: "?"
   archived: false
   stars: 4516
-  watch: 853
-  updated: 2024-06-05T20:10:06Z
-  issues: 124
+  watch: 854
+  updated: 2024-06-07T02:11:29Z
+  issues: 122
   forks: 726
   license: MIT
   owner: Azure
@@ -532,10 +532,10 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 113
+  stars: 114
   watch: 6
   forks: 63
-  updated: 2024-05-24T09:04:32Z
+  updated: 2024-06-07T08:19:36Z
   issues: 34
   owner: ErikWittern
   logo: https://avatars.githubusercontent.com/u/1745998?v=4
@@ -624,7 +624,7 @@
   stars: 1094
   watch: 22
   updated: 2024-06-06T20:45:03Z
-  issues: 104
+  issues: 105
   forks: 176
   license: MIT
   owner: LucyBot-Inc
