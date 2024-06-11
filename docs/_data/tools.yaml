@@ -262,9 +262,9 @@
   language: JavaScript
   category: "?"
   archived: false
-  stars: 1066
+  stars: 1068
   watch: 18
-  updated: 2024-05-29T15:09:10Z
+  updated: 2024-06-10T12:26:09Z
   issues: 71
   forks: 152
   license: MIT
@@ -281,10 +281,10 @@
     the community
   language: JavaScript
   archived: false
-  stars: 611
+  stars: 612
   watch: 35
   forks: 51
-  updated: 2024-05-29T11:38:28Z
+  updated: 2024-06-09T03:41:26Z
   issues: 9
   license: BSD-3-Clause
   owner: APIs-guru
@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3717
+  stars: 3721
   watch: 113
   forks: 559
-  updated: 2024-06-07T15:00:13Z
+  updated: 2024-06-10T03:28:51Z
   issues: 116
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -337,11 +337,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 948
+  stars: 950
   watch: 44
   forks: 487
-  updated: 2024-06-06T13:26:33Z
-  issues: 354
+  updated: 2024-06-10T13:19:34Z
+  issues: 356
   license: Apache-2.0
   owner: Apicurio
   logo: https://avatars.githubusercontent.com/u/28107283?v=4
@@ -374,9 +374,9 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4516
-  watch: 854
-  updated: 2024-06-07T02:11:29Z
+  stars: 4518
+  watch: 855
+  updated: 2024-06-10T09:50:24Z
   issues: 122
   forks: 726
   license: MIT
@@ -446,9 +446,9 @@
   language: JavaScript
   category: "?"
   archived: false
-  stars: 178
+  stars: 179
   watch: 11
-  updated: 2024-04-07T09:41:34Z
+  updated: 2024-06-10T12:57:35Z
   issues: 10
   forks: 24
   license: ISC
@@ -621,9 +621,9 @@
   language: JavaScript
   category: "?"
   archived: false
-  stars: 1094
+  stars: 1096
   watch: 22
-  updated: 2024-06-06T20:45:03Z
+  updated: 2024-06-09T15:14:55Z
   issues: 105
   forks: 176
   license: MIT
@@ -694,10 +694,10 @@
   description: OpenAPI 3.0 CodeGen plus Node.js minus the Java and emojis
   language: JavaScript
   archived: false
-  stars: 291
+  stars: 292
   watch: 12
   forks: 47
-  updated: 2024-05-29T22:04:21Z
+  updated: 2024-06-08T04:11:17Z
   issues: 24
   license: Apache-2.0
   owner: Mermade
