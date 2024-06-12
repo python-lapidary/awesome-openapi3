@@ -212,7 +212,7 @@
   stars: 318
   watch: 9
   forks: 41
-  updated: 2024-06-07T16:23:04Z
+  updated: 2024-06-11T14:03:56Z
   issues: 55
   owner: 42Crunch
   logo: https://avatars.githubusercontent.com/u/25365245?v=4
@@ -320,7 +320,7 @@
   watch: 113
   forks: 559
   updated: 2024-06-10T03:28:51Z
-  issues: 116
+  issues: 117
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
   license: CC0-1.0
@@ -337,10 +337,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 950
+  stars: 952
   watch: 44
-  forks: 487
-  updated: 2024-06-10T13:19:34Z
+  forks: 486
+  updated: 2024-06-11T20:47:27Z
   issues: 356
   license: Apache-2.0
   owner: Apicurio
@@ -376,7 +376,7 @@
   archived: false
   stars: 4518
   watch: 855
-  updated: 2024-06-10T09:50:24Z
+  updated: 2024-06-11T04:29:26Z
   issues: 122
   forks: 726
   license: MIT
@@ -586,10 +586,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 189
+  stars: 188
   watch: 5
   forks: 16
-  updated: 2024-05-30T09:30:54Z
+  updated: 2024-06-11T10:45:04Z
   issues: 6
   owner: Himenon
   logo: https://avatars.githubusercontent.com/u/6715229?v=4
