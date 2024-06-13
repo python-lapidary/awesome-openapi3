@@ -212,7 +212,7 @@
   stars: 318
   watch: 9
   forks: 41
-  updated: 2024-06-11T14:03:56Z
+  updated: 2024-06-12T17:02:52Z
   issues: 55
   owner: 42Crunch
   logo: https://avatars.githubusercontent.com/u/25365245?v=4
@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3721
+  stars: 3722
   watch: 113
   forks: 559
-  updated: 2024-06-10T03:28:51Z
+  updated: 2024-06-12T15:09:19Z
   issues: 117
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -337,10 +337,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 952
+  stars: 953
   watch: 44
   forks: 486
-  updated: 2024-06-11T20:47:27Z
+  updated: 2024-06-12T01:29:00Z
   issues: 356
   license: Apache-2.0
   owner: Apicurio
@@ -374,9 +374,9 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4518
-  watch: 855
-  updated: 2024-06-11T04:29:26Z
+  stars: 4520
+  watch: 856
+  updated: 2024-06-12T21:53:33Z
   issues: 122
   forks: 726
   license: MIT
@@ -397,7 +397,7 @@
   watch: 4
   forks: 29
   updated: 2024-05-09T22:07:01Z
-  issues: 34
+  issues: 35
   owner: BRIKEV
   logo: https://avatars.githubusercontent.com/u/59850028?v=4
   license: MIT
