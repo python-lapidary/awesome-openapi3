@@ -262,9 +262,9 @@
   language: JavaScript
   category: "?"
   archived: false
-  stars: 1068
+  stars: 1069
   watch: 18
-  updated: 2024-06-10T12:26:09Z
+  updated: 2024-06-13T13:53:19Z
   issues: 71
   forks: 152
   license: MIT
@@ -281,10 +281,10 @@
     the community
   language: JavaScript
   archived: false
-  stars: 612
+  stars: 613
   watch: 35
   forks: 51
-  updated: 2024-06-09T03:41:26Z
+  updated: 2024-06-13T21:05:58Z
   issues: 9
   license: BSD-3-Clause
   owner: APIs-guru
@@ -319,7 +319,7 @@
   stars: 3722
   watch: 113
   forks: 559
-  updated: 2024-06-12T15:09:19Z
+  updated: 2024-06-13T18:01:27Z
   issues: 117
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -374,9 +374,9 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4520
+  stars: 4521
   watch: 856
-  updated: 2024-06-12T21:53:33Z
+  updated: 2024-06-13T23:08:13Z
   issues: 122
   forks: 726
   license: MIT
@@ -662,7 +662,7 @@
   watch: 8
   updated: 2024-01-30T12:37:06Z
   issues: 6
-  forks: 27
+  forks: 26
   license: ""
   owner: Maks3w
   logo: https://avatars.githubusercontent.com/u/1301698?v=4
