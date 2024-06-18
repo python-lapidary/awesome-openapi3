@@ -262,11 +262,11 @@
   language: JavaScript
   category: "?"
   archived: false
-  stars: 1069
+  stars: 1071
   watch: 18
-  updated: 2024-06-13T13:53:19Z
+  updated: 2024-06-17T09:18:05Z
   issues: 71
-  forks: 152
+  forks: 151
   license: MIT
   owner: APIDevTools
   logo: https://avatars.githubusercontent.com/u/43750074?v=4
@@ -316,11 +316,11 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3723
+  stars: 3729
   watch: 113
   forks: 559
-  updated: 2024-06-14T13:58:15Z
-  issues: 117
+  updated: 2024-06-17T10:05:32Z
+  issues: 119
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
   license: CC0-1.0
@@ -374,11 +374,11 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4521
+  stars: 4523
   watch: 857
-  updated: 2024-06-13T23:08:13Z
-  issues: 122
-  forks: 726
+  updated: 2024-06-15T16:35:58Z
+  issues: 123
+  forks: 725
   license: MIT
   owner: Azure
   logo: https://avatars.githubusercontent.com/u/6844498?v=4
@@ -397,7 +397,7 @@
   watch: 4
   forks: 29
   updated: 2024-05-09T22:07:01Z
-  issues: 35
+  issues: 36
   owner: BRIKEV
   logo: https://avatars.githubusercontent.com/u/59850028?v=4
   license: MIT
@@ -464,10 +464,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 207
+  stars: 208
   watch: 20
   forks: 52
-  updated: 2024-05-31T05:17:46Z
+  updated: 2024-06-15T07:02:05Z
   issues: 4
   owner: Cornutum
   logo: https://avatars.githubusercontent.com/u/11477145?v=4
@@ -567,10 +567,10 @@
   description: Developing software framework for the GO programming language
   language: Go
   archived: false
-  stars: 41
+  stars: 42
   watch: 5
   forks: 5
-  updated: 2024-05-30T15:39:45Z
+  updated: 2024-06-17T08:39:41Z
   issues: 8
   license: Apache-2.0
   owner: GeniusesGroup
@@ -624,8 +624,8 @@
   stars: 1096
   watch: 22
   updated: 2024-06-09T15:14:55Z
-  issues: 105
-  forks: 176
+  issues: 107
+  forks: 177
   license: MIT
   owner: LucyBot-Inc
   logo: https://avatars.githubusercontent.com/u/26313641?v=4
@@ -640,9 +640,9 @@
   language: JavaScript
   category: "?"
   archived: false
-  stars: 1356
+  stars: 1357
   watch: 89
-  updated: 2024-05-27T16:46:26Z
+  updated: 2024-06-15T14:44:04Z
   issues: 40
   forks: 317
   owner: Luracast
