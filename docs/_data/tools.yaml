@@ -209,10 +209,10 @@
   v3: true
   github: https://github.com/42Crunch/vscode-openapi
   archived: false
-  stars: 318
+  stars: 319
   watch: 9
   forks: 41
-  updated: 2024-06-14T18:36:16Z
+  updated: 2024-06-18T08:31:28Z
   issues: 55
   owner: 42Crunch
   logo: https://avatars.githubusercontent.com/u/25365245?v=4
@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3729
+  stars: 3730
   watch: 113
   forks: 559
-  updated: 2024-06-17T10:05:32Z
+  updated: 2024-06-18T06:00:26Z
   issues: 119
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -341,7 +341,7 @@
   watch: 44
   forks: 486
   updated: 2024-06-12T01:29:00Z
-  issues: 356
+  issues: 357
   license: Apache-2.0
   owner: Apicurio
   logo: https://avatars.githubusercontent.com/u/28107283?v=4
@@ -374,10 +374,10 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4523
-  watch: 857
-  updated: 2024-06-15T16:35:58Z
-  issues: 123
+  stars: 4526
+  watch: 858
+  updated: 2024-06-18T22:02:31Z
+  issues: 124
   forks: 725
   license: MIT
   owner: Azure
@@ -397,7 +397,7 @@
   watch: 4
   forks: 29
   updated: 2024-05-09T22:07:01Z
-  issues: 36
+  issues: 37
   owner: BRIKEV
   logo: https://avatars.githubusercontent.com/u/59850028?v=4
   license: MIT
