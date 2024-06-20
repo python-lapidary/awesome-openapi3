@@ -209,10 +209,10 @@
   v3: true
   github: https://github.com/42Crunch/vscode-openapi
   archived: false
-  stars: 319
+  stars: 320
   watch: 9
   forks: 41
-  updated: 2024-06-18T08:31:28Z
+  updated: 2024-06-19T06:59:02Z
   issues: 55
   owner: 42Crunch
   logo: https://avatars.githubusercontent.com/u/25365245?v=4
@@ -262,11 +262,11 @@
   language: JavaScript
   category: "?"
   archived: false
-  stars: 1071
+  stars: 1073
   watch: 18
-  updated: 2024-06-17T09:18:05Z
+  updated: 2024-06-19T14:24:35Z
   issues: 71
-  forks: 151
+  forks: 152
   license: MIT
   owner: APIDevTools
   logo: https://avatars.githubusercontent.com/u/43750074?v=4
@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3730
+  stars: 3731
   watch: 113
   forks: 559
-  updated: 2024-06-18T06:00:26Z
+  updated: 2024-06-19T12:12:59Z
   issues: 119
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -339,9 +339,9 @@
   archived: false
   stars: 953
   watch: 44
-  forks: 486
+  forks: 485
   updated: 2024-06-12T01:29:00Z
-  issues: 357
+  issues: 360
   license: Apache-2.0
   owner: Apicurio
   logo: https://avatars.githubusercontent.com/u/28107283?v=4
@@ -374,11 +374,11 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4526
+  stars: 4528
   watch: 858
-  updated: 2024-06-18T22:02:31Z
-  issues: 124
-  forks: 725
+  updated: 2024-06-19T17:49:16Z
+  issues: 125
+  forks: 727
   license: MIT
   owner: Azure
   logo: https://avatars.githubusercontent.com/u/6844498?v=4
@@ -464,10 +464,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 208
+  stars: 209
   watch: 20
   forks: 52
-  updated: 2024-06-15T07:02:05Z
+  updated: 2024-06-19T04:38:02Z
   issues: 4
   owner: Cornutum
   logo: https://avatars.githubusercontent.com/u/11477145?v=4
@@ -4444,6 +4444,11 @@
   logo: https://avatars.githubusercontent.com/u/53815441?v=4
   license: MIT
   downloads: 0
+- github: https://github.com/openapi-ts/openapi-typescript
+  v3: true
+  category: unclassified
+  uuid: caeaf70d-e057-4dca-8643-900e3e797f70
+  downloads: 0
 - github: https://github.com/openapi4j/openapi4j
   v3: true
   category: unclassified
@@ -7010,6 +7015,11 @@
   issues: 132
   owner: swagger-api
   logo: https://avatars.githubusercontent.com/u/7658037?v=4
+  downloads: 0
+- github: https://github.com/swaggerexpert/swagger-editor-validate
+  v3: true
+  category: unclassified
+  uuid: 03537d5d-9750-4898-be06-75b0b460b57a
   downloads: 0
 - github: https://github.com/up9inc/oas-diff
   v3: true
