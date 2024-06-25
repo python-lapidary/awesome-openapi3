@@ -212,7 +212,7 @@
   stars: 320
   watch: 9
   forks: 41
-  updated: 2024-06-19T06:59:02Z
+  updated: 2024-06-24T20:14:54Z
   issues: 55
   owner: 42Crunch
   logo: https://avatars.githubusercontent.com/u/25365245?v=4
@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3731
+  stars: 3732
   watch: 113
   forks: 560
-  updated: 2024-06-21T18:15:01Z
+  updated: 2024-06-22T02:32:28Z
   issues: 119
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -337,11 +337,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 953
+  stars: 955
   watch: 44
-  forks: 486
-  updated: 2024-06-12T01:29:00Z
-  issues: 361
+  forks: 487
+  updated: 2024-06-24T01:29:54Z
+  issues: 362
   license: Apache-2.0
   owner: Apicurio
   logo: https://avatars.githubusercontent.com/u/28107283?v=4
@@ -374,11 +374,11 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4531
-  watch: 858
-  updated: 2024-06-21T15:35:16Z
+  stars: 4530
+  watch: 859
+  updated: 2024-06-24T03:47:34Z
   issues: 125
-  forks: 727
+  forks: 728
   license: MIT
   owner: Azure
   logo: https://avatars.githubusercontent.com/u/6844498?v=4
@@ -397,7 +397,7 @@
   watch: 4
   forks: 29
   updated: 2024-05-09T22:07:01Z
-  issues: 37
+  issues: 38
   owner: BRIKEV
   logo: https://avatars.githubusercontent.com/u/59850028?v=4
   license: MIT
@@ -534,9 +534,9 @@
   archived: false
   stars: 114
   watch: 6
-  forks: 63
+  forks: 64
   updated: 2024-06-07T08:19:36Z
-  issues: 34
+  issues: 35
   owner: ErikWittern
   logo: https://avatars.githubusercontent.com/u/1745998?v=4
   license: MIT
@@ -586,10 +586,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 188
+  stars: 189
   watch: 5
   forks: 16
-  updated: 2024-06-11T10:45:04Z
+  updated: 2024-06-23T07:39:12Z
   issues: 6
   owner: Himenon
   logo: https://avatars.githubusercontent.com/u/6715229?v=4
@@ -621,9 +621,9 @@
   language: JavaScript
   category: "?"
   archived: false
-  stars: 1096
+  stars: 1097
   watch: 22
-  updated: 2024-06-09T15:14:55Z
+  updated: 2024-06-24T05:07:03Z
   issues: 107
   forks: 177
   license: MIT
@@ -696,7 +696,7 @@
   archived: false
   stars: 292
   watch: 12
-  forks: 47
+  forks: 46
   updated: 2024-06-08T04:11:17Z
   issues: 24
   license: Apache-2.0
