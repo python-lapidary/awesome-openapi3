@@ -248,7 +248,7 @@
   watch: 21
   updated: 2024-03-06T17:44:10Z
   issues: 1
-  forks: 203
+  forks: 202
   license: MIT
   owner: APIDevTools
   logo: https://avatars.githubusercontent.com/u/43750074?v=4
@@ -281,10 +281,10 @@
     the community
   language: JavaScript
   archived: false
-  stars: 613
+  stars: 614
   watch: 35
   forks: 51
-  updated: 2024-06-13T21:05:58Z
+  updated: 2024-06-25T22:54:14Z
   issues: 9
   license: BSD-3-Clause
   owner: APIs-guru
@@ -298,10 +298,10 @@
   description: Amazon Web Services API description to OpenAPI 3.0 definition
   language: JavaScript
   archived: false
-  stars: 55
+  stars: 56
   watch: 5
   forks: 10
-  updated: 2024-06-07T14:52:43Z
+  updated: 2024-06-25T22:52:57Z
   issues: 14
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3732
+  stars: 3736
   watch: 113
   forks: 560
-  updated: 2024-06-22T02:32:28Z
+  updated: 2024-06-25T21:56:02Z
   issues: 119
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -340,8 +340,8 @@
   stars: 955
   watch: 44
   forks: 487
-  updated: 2024-06-24T01:29:54Z
-  issues: 362
+  updated: 2024-06-25T15:19:53Z
+  issues: 352
   license: Apache-2.0
   owner: Apicurio
   logo: https://avatars.githubusercontent.com/u/28107283?v=4
@@ -374,9 +374,9 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4530
-  watch: 859
-  updated: 2024-06-24T03:47:34Z
+  stars: 4531
+  watch: 860
+  updated: 2024-06-25T21:45:03Z
   issues: 125
   forks: 728
   license: MIT
