@@ -212,7 +212,7 @@
   stars: 319
   watch: 9
   forks: 41
-  updated: 2024-06-27T20:07:36Z
+  updated: 2024-06-28T12:00:20Z
   issues: 55
   owner: 42Crunch
   logo: https://avatars.githubusercontent.com/u/25365245?v=4
@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3740
+  stars: 3741
   watch: 113
-  forks: 560
-  updated: 2024-06-27T13:26:06Z
+  forks: 561
+  updated: 2024-06-28T12:08:38Z
   issues: 119
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -341,7 +341,7 @@
   watch: 44
   forks: 488
   updated: 2024-06-25T15:19:53Z
-  issues: 356
+  issues: 357
   license: Apache-2.0
   owner: Apicurio
   logo: https://avatars.githubusercontent.com/u/28107283?v=4
@@ -374,10 +374,10 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4534
+  stars: 4535
   watch: 861
-  updated: 2024-06-27T15:12:04Z
-  issues: 126
+  updated: 2024-06-28T08:23:01Z
+  issues: 128
   forks: 728
   license: MIT
   owner: Azure
@@ -625,7 +625,7 @@
   watch: 22
   updated: 2024-06-24T05:07:03Z
   issues: 107
-  forks: 177
+  forks: 178
   license: MIT
   owner: LucyBot-Inc
   logo: https://avatars.githubusercontent.com/u/26313641?v=4
@@ -733,10 +733,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 150
+  stars: 151
   watch: 5
   forks: 30
-  updated: 2024-06-06T14:14:05Z
+  updated: 2024-06-28T14:01:19Z
   issues: 8
   license: BSD-3-Clause
   owner: Mermade
