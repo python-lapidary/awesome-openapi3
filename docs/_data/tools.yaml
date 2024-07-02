@@ -209,10 +209,10 @@
   v3: true
   github: https://github.com/42Crunch/vscode-openapi
   archived: false
-  stars: 319
+  stars: 320
   watch: 9
   forks: 41
-  updated: 2024-06-28T12:00:20Z
+  updated: 2024-06-30T04:59:34Z
   issues: 55
   owner: 42Crunch
   logo: https://avatars.githubusercontent.com/u/25365245?v=4
@@ -316,11 +316,11 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3741
+  stars: 3744
   watch: 113
   forks: 561
-  updated: 2024-06-28T12:08:38Z
-  issues: 119
+  updated: 2024-07-01T07:21:21Z
+  issues: 120
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
   license: CC0-1.0
@@ -341,7 +341,7 @@
   watch: 44
   forks: 488
   updated: 2024-06-25T15:19:53Z
-  issues: 357
+  issues: 360
   license: Apache-2.0
   owner: Apicurio
   logo: https://avatars.githubusercontent.com/u/28107283?v=4
@@ -375,8 +375,8 @@
   category: "?"
   archived: false
   stars: 4535
-  watch: 861
-  updated: 2024-06-28T08:23:01Z
+  watch: 863
+  updated: 2024-07-01T13:54:28Z
   issues: 128
   forks: 728
   license: MIT
@@ -393,10 +393,10 @@
   description: Swagger OpenAPI 3.x generator
   language: JavaScript
   archived: false
-  stars: 209
+  stars: 210
   watch: 4
   forks: 29
-  updated: 2024-05-09T22:07:01Z
+  updated: 2024-07-01T15:20:01Z
   issues: 38
   owner: BRIKEV
   logo: https://avatars.githubusercontent.com/u/59850028?v=4
@@ -642,7 +642,7 @@
   archived: false
   stars: 1357
   watch: 89
-  updated: 2024-06-15T14:44:04Z
+  updated: 2024-07-01T10:47:20Z
   issues: 40
   forks: 317
   owner: Luracast
