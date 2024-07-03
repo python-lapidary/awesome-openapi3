@@ -209,10 +209,10 @@
   v3: true
   github: https://github.com/42Crunch/vscode-openapi
   archived: false
-  stars: 320
+  stars: 321
   watch: 9
   forks: 41
-  updated: 2024-06-30T04:59:34Z
+  updated: 2024-07-02T08:00:02Z
   issues: 55
   owner: 42Crunch
   logo: https://avatars.githubusercontent.com/u/25365245?v=4
@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3744
+  stars: 3746
   watch: 113
-  forks: 561
-  updated: 2024-07-01T07:21:21Z
+  forks: 563
+  updated: 2024-07-02T08:57:45Z
   issues: 120
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -374,9 +374,9 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4535
+  stars: 4536
   watch: 863
-  updated: 2024-07-01T13:54:28Z
+  updated: 2024-07-02T13:05:03Z
   issues: 128
   forks: 728
   license: MIT
@@ -586,10 +586,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 189
+  stars: 190
   watch: 5
   forks: 16
-  updated: 2024-06-23T07:39:12Z
+  updated: 2024-07-02T15:07:16Z
   issues: 6
   owner: Himenon
   logo: https://avatars.githubusercontent.com/u/6715229?v=4
