@@ -319,7 +319,7 @@
   stars: 3751
   watch: 113
   forks: 563
-  updated: 2024-07-04T18:29:34Z
+  updated: 2024-07-05T14:18:25Z
   issues: 121
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -341,7 +341,7 @@
   watch: 44
   forks: 488
   updated: 2024-07-03T11:44:13Z
-  issues: 360
+  issues: 363
   license: Apache-2.0
   owner: Apicurio
   logo: https://avatars.githubusercontent.com/u/28107283?v=4
@@ -375,9 +375,9 @@
   category: "?"
   archived: false
   stars: 4538
-  watch: 863
+  watch: 864
   updated: 2024-07-04T23:43:14Z
-  issues: 128
+  issues: 129
   forks: 728
   license: MIT
   owner: Azure
