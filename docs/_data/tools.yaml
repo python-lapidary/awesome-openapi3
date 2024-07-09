@@ -228,7 +228,7 @@
   archived: true
   stars: 516
   watch: 14
-  forks: 70
+  forks: 69
   updated: 2024-05-10T22:14:27Z
   issues: 51
   license: MIT
@@ -316,11 +316,11 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3751
+  stars: 3755
   watch: 113
   forks: 563
-  updated: 2024-07-05T14:18:25Z
-  issues: 121
+  updated: 2024-07-08T12:06:42Z
+  issues: 122
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
   license: CC0-1.0
@@ -339,8 +339,8 @@
   archived: false
   stars: 956
   watch: 44
-  forks: 488
-  updated: 2024-07-03T11:44:13Z
+  forks: 489
+  updated: 2024-07-08T16:09:50Z
   issues: 363
   license: Apache-2.0
   owner: Apicurio
@@ -374,10 +374,10 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4538
-  watch: 864
-  updated: 2024-07-04T23:43:14Z
-  issues: 129
+  stars: 4541
+  watch: 865
+  updated: 2024-07-08T09:16:46Z
+  issues: 130
   forks: 728
   license: MIT
   owner: Azure
@@ -640,9 +640,9 @@
   language: JavaScript
   category: "?"
   archived: false
-  stars: 1357
+  stars: 1356
   watch: 89
-  updated: 2024-07-01T10:47:20Z
+  updated: 2024-07-07T08:58:16Z
   issues: 40
   forks: 317
   owner: Luracast
