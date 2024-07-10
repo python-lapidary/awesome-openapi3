@@ -283,7 +283,7 @@
   archived: false
   stars: 614
   watch: 35
-  forks: 51
+  forks: 52
   updated: 2024-06-25T22:54:14Z
   issues: 9
   license: BSD-3-Clause
@@ -320,7 +320,7 @@
   watch: 113
   forks: 563
   updated: 2024-07-08T12:06:42Z
-  issues: 122
+  issues: 123
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
   license: CC0-1.0
@@ -341,7 +341,7 @@
   watch: 44
   forks: 489
   updated: 2024-07-08T16:09:50Z
-  issues: 363
+  issues: 365
   license: Apache-2.0
   owner: Apicurio
   logo: https://avatars.githubusercontent.com/u/28107283?v=4
@@ -375,7 +375,7 @@
   category: "?"
   archived: false
   stars: 4541
-  watch: 865
+  watch: 867
   updated: 2024-07-08T09:16:46Z
   issues: 130
   forks: 728
