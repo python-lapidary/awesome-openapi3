@@ -210,9 +210,9 @@
   github: https://github.com/42Crunch/vscode-openapi
   archived: false
   stars: 321
-  watch: 9
+  watch: 10
   forks: 41
-  updated: 2024-07-02T08:00:02Z
+  updated: 2024-07-10T15:18:26Z
   issues: 55
   owner: 42Crunch
   logo: https://avatars.githubusercontent.com/u/25365245?v=4
@@ -281,10 +281,10 @@
     the community
   language: JavaScript
   archived: false
-  stars: 614
+  stars: 615
   watch: 35
   forks: 52
-  updated: 2024-06-25T22:54:14Z
+  updated: 2024-07-10T06:16:55Z
   issues: 9
   license: BSD-3-Clause
   owner: APIs-guru
@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3755
+  stars: 3757
   watch: 113
   forks: 563
-  updated: 2024-07-08T12:06:42Z
+  updated: 2024-07-10T12:38:37Z
   issues: 123
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -337,10 +337,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 956
+  stars: 958
   watch: 44
   forks: 489
-  updated: 2024-07-08T16:09:50Z
+  updated: 2024-07-10T14:14:56Z
   issues: 365
   license: Apache-2.0
   owner: Apicurio
@@ -374,9 +374,9 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4541
+  stars: 4544
   watch: 867
-  updated: 2024-07-08T09:16:46Z
+  updated: 2024-07-10T14:41:00Z
   issues: 130
   forks: 728
   license: MIT
@@ -586,10 +586,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 190
+  stars: 191
   watch: 5
   forks: 16
-  updated: 2024-07-02T15:07:16Z
+  updated: 2024-07-10T13:21:37Z
   issues: 6
   owner: Himenon
   logo: https://avatars.githubusercontent.com/u/6715229?v=4
@@ -621,9 +621,9 @@
   language: JavaScript
   category: "?"
   archived: false
-  stars: 1097
+  stars: 1099
   watch: 22
-  updated: 2024-06-24T05:07:03Z
+  updated: 2024-07-10T17:55:30Z
   issues: 107
   forks: 178
   license: MIT
