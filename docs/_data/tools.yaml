@@ -316,11 +316,11 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3757
+  stars: 3759
   watch: 113
   forks: 563
-  updated: 2024-07-10T12:38:37Z
-  issues: 123
+  updated: 2024-07-11T16:57:06Z
+  issues: 124
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
   license: CC0-1.0
@@ -337,11 +337,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 958
+  stars: 959
   watch: 44
   forks: 489
-  updated: 2024-07-10T14:14:56Z
-  issues: 365
+  updated: 2024-07-11T12:59:33Z
+  issues: 350
   license: Apache-2.0
   owner: Apicurio
   logo: https://avatars.githubusercontent.com/u/28107283?v=4
@@ -374,9 +374,9 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4544
+  stars: 4546
   watch: 867
-  updated: 2024-07-10T14:41:00Z
+  updated: 2024-07-11T05:38:36Z
   issues: 130
   forks: 728
   license: MIT
@@ -397,7 +397,7 @@
   watch: 4
   forks: 29
   updated: 2024-07-01T15:20:01Z
-  issues: 38
+  issues: 39
   owner: BRIKEV
   logo: https://avatars.githubusercontent.com/u/59850028?v=4
   license: MIT
@@ -464,10 +464,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 209
+  stars: 210
   watch: 20
   forks: 52
-  updated: 2024-06-19T04:38:02Z
+  updated: 2024-07-11T20:42:42Z
   issues: 4
   owner: Cornutum
   logo: https://avatars.githubusercontent.com/u/11477145?v=4
@@ -586,10 +586,10 @@
   description: TypeScript code generator via OpenAPI scheme.
   language: TypeScript
   archived: false
-  stars: 191
+  stars: 193
   watch: 5
   forks: 16
-  updated: 2024-07-10T13:21:37Z
+  updated: 2024-07-11T02:26:37Z
   issues: 6
   owner: Himenon
   logo: https://avatars.githubusercontent.com/u/6715229?v=4
@@ -621,9 +621,9 @@
   language: JavaScript
   category: "?"
   archived: false
-  stars: 1099
+  stars: 1100
   watch: 22
-  updated: 2024-07-10T17:55:30Z
+  updated: 2024-07-11T02:10:45Z
   issues: 107
   forks: 178
   license: MIT
