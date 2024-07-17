@@ -319,7 +319,7 @@
   stars: 3761
   watch: 113
   forks: 565
-  updated: 2024-07-15T17:10:15Z
+  updated: 2024-07-16T07:57:27Z
   issues: 124
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -337,10 +337,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 960
-  watch: 44
+  stars: 961
+  watch: 45
   forks: 490
-  updated: 2024-07-15T05:14:21Z
+  updated: 2024-07-16T12:36:52Z
   issues: 353
   license: Apache-2.0
   owner: Apicurio
@@ -374,9 +374,9 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4547
-  watch: 867
-  updated: 2024-07-12T20:39:50Z
+  stars: 4548
+  watch: 868
+  updated: 2024-07-16T08:00:32Z
   issues: 130
   forks: 728
   license: MIT
@@ -625,7 +625,7 @@
   watch: 22
   updated: 2024-07-12T03:10:04Z
   issues: 107
-  forks: 178
+  forks: 179
   license: MIT
   owner: LucyBot-Inc
   logo: https://avatars.githubusercontent.com/u/26313641?v=4
@@ -677,10 +677,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 696
+  stars: 697
   watch: 15
   forks: 129
-  updated: 2024-07-03T12:32:06Z
+  updated: 2024-07-16T15:20:13Z
   issues: 43
   license: BSD-3-Clause
   owner: Mermade
@@ -715,7 +715,7 @@
   archived: false
   stars: 27
   watch: 4
-  forks: 8
+  forks: 9
   updated: 2024-06-06T23:46:19Z
   issues: 6
   license: BSD-3-Clause
@@ -735,7 +735,7 @@
   archived: false
   stars: 151
   watch: 5
-  forks: 30
+  forks: 31
   updated: 2024-06-28T14:01:19Z
   issues: 8
   license: BSD-3-Clause
