@@ -212,7 +212,7 @@
   stars: 322
   watch: 10
   forks: 41
-  updated: 2024-07-24T14:47:59Z
+  updated: 2024-07-26T15:20:19Z
   issues: 56
   owner: 42Crunch
   logo: https://avatars.githubusercontent.com/u/25365245?v=4
@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3773
+  stars: 3777
   watch: 113
   forks: 566
-  updated: 2024-07-25T15:41:05Z
+  updated: 2024-07-26T16:45:14Z
   issues: 126
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -337,10 +337,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 966
+  stars: 967
   watch: 45
   forks: 489
-  updated: 2024-07-24T20:26:46Z
+  updated: 2024-07-26T09:45:13Z
   issues: 353
   license: Apache-2.0
   owner: Apicurio
@@ -397,7 +397,7 @@
   watch: 4
   forks: 30
   updated: 2024-07-18T16:29:58Z
-  issues: 39
+  issues: 40
   owner: BRIKEV
   logo: https://avatars.githubusercontent.com/u/59850028?v=4
   license: MIT
@@ -464,10 +464,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 210
+  stars: 211
   watch: 20
   forks: 52
-  updated: 2024-07-11T20:42:42Z
+  updated: 2024-07-26T13:48:25Z
   issues: 4
   owner: Cornutum
   logo: https://avatars.githubusercontent.com/u/11477145?v=4
