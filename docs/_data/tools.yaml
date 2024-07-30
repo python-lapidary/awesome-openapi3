@@ -262,11 +262,11 @@
   language: JavaScript
   category: "?"
   archived: false
-  stars: 1077
+  stars: 1078
   watch: 18
-  updated: 2024-07-25T10:32:01Z
+  updated: 2024-07-29T23:38:51Z
   issues: 73
-  forks: 153
+  forks: 154
   license: MIT
   owner: APIDevTools
   logo: https://avatars.githubusercontent.com/u/43750074?v=4
@@ -316,11 +316,11 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3777
+  stars: 3779
   watch: 113
-  forks: 566
-  updated: 2024-07-26T16:45:14Z
-  issues: 126
+  forks: 568
+  updated: 2024-07-29T15:23:12Z
+  issues: 130
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
   license: CC0-1.0
@@ -337,11 +337,11 @@
   v2: true
   v3: true
   archived: false
-  stars: 967
+  stars: 968
   watch: 45
   forks: 489
-  updated: 2024-07-26T09:45:13Z
-  issues: 353
+  updated: 2024-07-27T06:42:24Z
+  issues: 354
   license: Apache-2.0
   owner: Apicurio
   logo: https://avatars.githubusercontent.com/u/28107283?v=4
@@ -374,9 +374,9 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4552
+  stars: 4554
   watch: 867
-  updated: 2024-07-25T19:52:50Z
+  updated: 2024-07-29T07:54:07Z
   issues: 129
   forks: 730
   license: MIT
@@ -464,10 +464,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 211
+  stars: 212
   watch: 20
   forks: 52
-  updated: 2024-07-26T13:48:25Z
+  updated: 2024-07-29T15:07:13Z
   issues: 4
   owner: Cornutum
   logo: https://avatars.githubusercontent.com/u/11477145?v=4
@@ -2651,6 +2651,11 @@
   owner: ethereum
   logo: https://avatars.githubusercontent.com/u/6250754?v=4
   license: CC0-1.0
+  downloads: 0
+- github: https://github.com/fastapi/fastapi
+  v3: true
+  category: unclassified
+  uuid: b56377dd-e7f3-4ab1-9cf0-4057962e4cf6
   downloads: 0
 - name: flasgger
   description: Easy OpenAPI specs and Swagger UI for your Flask API
