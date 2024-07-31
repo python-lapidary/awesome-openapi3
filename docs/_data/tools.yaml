@@ -212,7 +212,7 @@
   stars: 322
   watch: 10
   forks: 41
-  updated: 2024-07-26T15:20:19Z
+  updated: 2024-07-30T14:43:30Z
   issues: 56
   owner: 42Crunch
   logo: https://avatars.githubusercontent.com/u/25365245?v=4
@@ -262,9 +262,9 @@
   language: JavaScript
   category: "?"
   archived: false
-  stars: 1078
+  stars: 1080
   watch: 18
-  updated: 2024-07-29T23:38:51Z
+  updated: 2024-07-30T21:49:55Z
   issues: 73
   forks: 154
   license: MIT
@@ -337,10 +337,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 968
+  stars: 971
   watch: 45
-  forks: 489
-  updated: 2024-07-27T06:42:24Z
+  forks: 490
+  updated: 2024-07-30T17:45:21Z
   issues: 354
   license: Apache-2.0
   owner: Apicurio
@@ -375,9 +375,9 @@
   category: "?"
   archived: false
   stars: 4554
-  watch: 867
+  watch: 866
   updated: 2024-07-29T07:54:07Z
-  issues: 129
+  issues: 130
   forks: 730
   license: MIT
   owner: Azure
@@ -464,10 +464,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 212
+  stars: 213
   watch: 20
   forks: 52
-  updated: 2024-07-29T15:07:13Z
+  updated: 2024-07-30T05:10:46Z
   issues: 4
   owner: Cornutum
   logo: https://avatars.githubusercontent.com/u/11477145?v=4
@@ -621,9 +621,9 @@
   language: JavaScript
   category: "?"
   archived: false
-  stars: 1103
+  stars: 1104
   watch: 22
-  updated: 2024-07-20T00:51:20Z
+  updated: 2024-07-30T23:18:57Z
   issues: 107
   forks: 179
   license: MIT
@@ -640,9 +640,9 @@
   language: JavaScript
   category: "?"
   archived: false
-  stars: 1358
+  stars: 1359
   watch: 89
-  updated: 2024-07-23T16:51:36Z
+  updated: 2024-07-30T08:35:15Z
   issues: 40
   forks: 317
   owner: Luracast
