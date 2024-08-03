@@ -281,10 +281,10 @@
     the community
   language: JavaScript
   archived: false
-  stars: 615
+  stars: 616
   watch: 35
   forks: 52
-  updated: 2024-07-25T11:00:31Z
+  updated: 2024-08-02T16:44:19Z
   issues: 9
   license: BSD-3-Clause
   owner: APIs-guru
@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3784
+  stars: 3786
   watch: 113
   forks: 570
-  updated: 2024-08-01T15:41:49Z
+  updated: 2024-08-02T12:17:58Z
   issues: 130
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -338,8 +338,8 @@
   v3: true
   archived: false
   stars: 971
-  watch: 45
-  forks: 490
+  watch: 44
+  forks: 491
   updated: 2024-07-30T17:45:21Z
   issues: 355
   license: Apache-2.0
@@ -625,7 +625,7 @@
   watch: 22
   updated: 2024-07-31T14:35:29Z
   issues: 107
-  forks: 179
+  forks: 180
   license: MIT
   owner: LucyBot-Inc
   logo: https://avatars.githubusercontent.com/u/26313641?v=4
@@ -733,10 +733,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 151
+  stars: 152
   watch: 5
   forks: 32
-  updated: 2024-07-31T02:57:34Z
+  updated: 2024-08-02T16:44:20Z
   issues: 9
   license: BSD-3-Clause
   owner: Mermade
