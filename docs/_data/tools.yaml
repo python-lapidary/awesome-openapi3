@@ -226,10 +226,10 @@
   description: Swagger 2.0 and OpenAPI 3.0 command-line tool
   v2: true
   archived: true
-  stars: 516
+  stars: 515
   watch: 14
   forks: 69
-  updated: 2024-05-10T22:14:27Z
+  updated: 2024-08-05T11:40:25Z
   issues: 51
   license: MIT
   owner: APIDevTools
@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3786
+  stars: 3787
   watch: 113
   forks: 570
-  updated: 2024-08-02T12:17:58Z
+  updated: 2024-08-05T15:26:51Z
   issues: 130
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -337,10 +337,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 971
+  stars: 972
   watch: 44
   forks: 491
-  updated: 2024-07-30T17:45:21Z
+  updated: 2024-08-04T06:43:32Z
   issues: 355
   license: Apache-2.0
   owner: Apicurio
@@ -375,7 +375,7 @@
   category: "?"
   archived: false
   stars: 4555
-  watch: 867
+  watch: 868
   updated: 2024-07-31T05:38:20Z
   issues: 132
   forks: 731
@@ -485,7 +485,7 @@
   watch: 29
   updated: 2024-05-19T09:58:59Z
   issues: 90
-  forks: 152
+  forks: 151
   license: ""
   owner: DarthFubuMVC
   logo: https://avatars.githubusercontent.com/u/179202?v=4
@@ -625,7 +625,7 @@
   watch: 22
   updated: 2024-07-31T14:35:29Z
   issues: 107
-  forks: 180
+  forks: 179
   license: MIT
   owner: LucyBot-Inc
   logo: https://avatars.githubusercontent.com/u/26313641?v=4
@@ -680,7 +680,7 @@
   stars: 700
   watch: 15
   forks: 129
-  updated: 2024-08-01T06:12:40Z
+  updated: 2024-08-04T18:34:19Z
   issues: 43
   license: BSD-3-Clause
   owner: Mermade
