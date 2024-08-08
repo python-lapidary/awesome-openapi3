@@ -262,9 +262,9 @@
   language: JavaScript
   category: "?"
   archived: false
-  stars: 1080
+  stars: 1081
   watch: 18
-  updated: 2024-07-30T21:49:55Z
+  updated: 2024-08-07T09:33:09Z
   issues: 73
   forks: 154
   license: MIT
@@ -316,11 +316,11 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3790
+  stars: 3792
   watch: 113
-  forks: 571
-  updated: 2024-08-06T19:22:49Z
-  issues: 130
+  forks: 570
+  updated: 2024-08-07T19:37:22Z
+  issues: 131
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
   license: CC0-1.0
@@ -374,10 +374,10 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4556
-  watch: 868
-  updated: 2024-08-06T23:04:38Z
-  issues: 132
+  stars: 4557
+  watch: 869
+  updated: 2024-08-07T01:13:25Z
+  issues: 133
   forks: 731
   license: MIT
   owner: Azure
