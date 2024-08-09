@@ -281,10 +281,10 @@
     the community
   language: JavaScript
   archived: false
-  stars: 616
+  stars: 617
   watch: 35
   forks: 52
-  updated: 2024-08-02T16:44:19Z
+  updated: 2024-08-08T16:41:29Z
   issues: 9
   license: BSD-3-Clause
   owner: APIs-guru
@@ -341,7 +341,7 @@
   watch: 44
   forks: 491
   updated: 2024-08-06T05:32:08Z
-  issues: 355
+  issues: 356
   license: Apache-2.0
   owner: Apicurio
   logo: https://avatars.githubusercontent.com/u/28107283?v=4
@@ -375,9 +375,9 @@
   category: "?"
   archived: false
   stars: 4557
-  watch: 869
+  watch: 870
   updated: 2024-08-07T01:13:25Z
-  issues: 133
+  issues: 134
   forks: 731
   license: MIT
   owner: Azure
