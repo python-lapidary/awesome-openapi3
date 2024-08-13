@@ -212,7 +212,7 @@
   stars: 324
   watch: 10
   forks: 41
-  updated: 2024-08-06T16:07:23Z
+  updated: 2024-08-12T15:34:32Z
   issues: 57
   owner: 42Crunch
   logo: https://avatars.githubusercontent.com/u/25365245?v=4
@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3792
+  stars: 3798
   watch: 113
   forks: 570
-  updated: 2024-08-07T19:37:22Z
+  updated: 2024-08-12T16:25:30Z
   issues: 132
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -338,7 +338,7 @@
   v3: true
   archived: false
   stars: 972
-  watch: 44
+  watch: 43
   forks: 491
   updated: 2024-08-09T03:14:48Z
   issues: 356
@@ -374,9 +374,9 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4558
-  watch: 871
-  updated: 2024-08-09T13:04:38Z
+  stars: 4563
+  watch: 872
+  updated: 2024-08-12T10:02:33Z
   issues: 134
   forks: 729
   license: MIT
@@ -464,10 +464,10 @@
   description: A model-based test case generator
   language: Java
   archived: false
-  stars: 214
+  stars: 215
   watch: 20
   forks: 52
-  updated: 2024-07-31T06:36:58Z
+  updated: 2024-08-10T02:42:35Z
   issues: 4
   owner: Cornutum
   logo: https://avatars.githubusercontent.com/u/11477145?v=4
@@ -625,7 +625,7 @@
   watch: 22
   updated: 2024-07-31T14:35:29Z
   issues: 107
-  forks: 179
+  forks: 178
   license: MIT
   owner: LucyBot-Inc
   logo: https://avatars.githubusercontent.com/u/26313641?v=4
@@ -641,7 +641,7 @@
   category: "?"
   archived: false
   stars: 1359
-  watch: 89
+  watch: 88
   updated: 2024-07-30T08:35:15Z
   issues: 40
   forks: 317
@@ -677,10 +677,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 700
+  stars: 701
   watch: 15
   forks: 129
-  updated: 2024-08-04T18:34:19Z
+  updated: 2024-08-10T03:02:19Z
   issues: 43
   license: BSD-3-Clause
   owner: Mermade
@@ -733,10 +733,10 @@
   v2: true
   v3: true
   archived: false
-  stars: 152
+  stars: 153
   watch: 5
   forks: 32
-  updated: 2024-08-02T16:44:20Z
+  updated: 2024-08-12T01:16:34Z
   issues: 9
   license: BSD-3-Clause
   owner: Mermade
