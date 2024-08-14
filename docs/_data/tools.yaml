@@ -209,10 +209,10 @@
   v3: true
   github: https://github.com/42Crunch/vscode-openapi
   archived: false
-  stars: 324
-  watch: 10
+  stars: 325
+  watch: 11
   forks: 41
-  updated: 2024-08-12T15:34:32Z
+  updated: 2024-08-13T13:26:25Z
   issues: 57
   owner: 42Crunch
   logo: https://avatars.githubusercontent.com/u/25365245?v=4
@@ -281,10 +281,10 @@
     the community
   language: JavaScript
   archived: false
-  stars: 618
+  stars: 620
   watch: 35
   forks: 52
-  updated: 2024-08-09T17:25:11Z
+  updated: 2024-08-13T17:06:53Z
   issues: 9
   license: BSD-3-Clause
   owner: APIs-guru
@@ -316,10 +316,10 @@
     OpenAPI 2.0/3.x format
   language: Unknown
   archived: false
-  stars: 3798
+  stars: 3800
   watch: 113
   forks: 570
-  updated: 2024-08-12T16:25:30Z
+  updated: 2024-08-13T12:44:03Z
   issues: 132
   owner: APIs-guru
   logo: https://avatars.githubusercontent.com/u/10975548?v=4
@@ -339,7 +339,7 @@
   archived: false
   stars: 972
   watch: 43
-  forks: 491
+  forks: 492
   updated: 2024-08-09T03:14:48Z
   issues: 356
   license: Apache-2.0
@@ -374,9 +374,9 @@
   language: TypeScript
   category: "?"
   archived: false
-  stars: 4563
+  stars: 4565
   watch: 872
-  updated: 2024-08-12T10:02:33Z
+  updated: 2024-08-13T18:49:34Z
   issues: 134
   forks: 729
   license: MIT
@@ -532,10 +532,10 @@
   description: Generates code snippets for given Swagger / Open API documents
   language: JavaScript
   archived: false
-  stars: 115
+  stars: 116
   watch: 6
   forks: 66
-  updated: 2024-07-12T11:12:55Z
+  updated: 2024-08-13T12:52:25Z
   issues: 36
   owner: ErikWittern
   logo: https://avatars.githubusercontent.com/u/1745998?v=4
